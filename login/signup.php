@@ -1,5 +1,3 @@
-<?php include("DB.php")?>
-<?php include("includes/Header.php")?>
 
 <div class="container p-4">
 
@@ -79,10 +77,3 @@ while($row = mysqli_fetch_array($result_datos)){ ?>
 
 
 </div>
-
-<?php include("includes/footer.php")?>
-
-
-    
-
-
